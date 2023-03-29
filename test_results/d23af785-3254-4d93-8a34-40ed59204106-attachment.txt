@@ -1,0 +1,11 @@
+[32mINFO    [0m root:test_001_login.py:24 ********************* START test_login_page *********************
+[32mINFO    [0m root:pom_login_page.py:94 Username is: Admin
+[32mINFO    [0m root:pom_login_page.py:102 Password is:  admin123
+[32mINFO    [0m root:pom_login_page.py:152 Login page visibility of all elements *** PASS *** 
+[32mINFO    [0m root:pom_login_page.py:214 Message username required : Required *** PASS ***
+[32mINFO    [0m root:pom_login_page.py:215 Message password required: Required *** PASS ***
+[32mINFO    [0m root:pom_login_page.py:235 Input random username and password :usvze9hb@gmail.com *** PASS ***
+[32mINFO    [0m root:pom_login_page.py:241 Message invalid credentials :Invalid credentials *** PASS ***
+[32mINFO    [0m root:pom_login_page.py:187 Input valid username: Admin *** PASS ***
+[32mINFO    [0m root:pom_login_page.py:206 Input valid password: admin123 *** PASS ***
+[32mINFO    [0m root:test_001_login.py:40 ********************* FINISH test_login_page *********************

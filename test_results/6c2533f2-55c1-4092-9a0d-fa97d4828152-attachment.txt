@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_003_admin.py:54 ********************* START test_admin_page *********************
+[32mINFO    [0m root:main_menu.py:38 typed in search field: Admin
+[32mINFO    [0m root:main_menu.py:47 selected : Admin from main menu

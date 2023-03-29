@@ -1,0 +1,118 @@
+01/09/2023 11:20:42 AM - INFO - ********************* START test_pim_page_visibility
+01/09/2023 11:20:54 AM - INFO - Login page
+01/09/2023 11:20:54 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:20:54 AM - INFO - input_username is displayed
+01/09/2023 11:20:54 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:20:54 AM - INFO - input_password is displayed
+01/09/2023 11:20:54 AM - INFO - login_button is displayed
+01/09/2023 11:20:55 AM - INFO - chevron_left is displayed
+01/09/2023 11:20:56 AM - INFO - selected : PIM from main menu
+01/09/2023 11:20:56 AM - INFO - label_employee_name is displayed
+01/09/2023 11:20:56 AM - INFO - input_employee_name is displayed
+01/09/2023 11:20:56 AM - INFO - label_employee_id is displayed
+01/09/2023 11:20:56 AM - INFO - input_employee_id is displayed
+01/09/2023 11:20:56 AM - INFO - label_employment_status is displayed
+01/09/2023 11:20:56 AM - INFO - dd_employee_status is displayed
+01/09/2023 11:20:56 AM - INFO - label_include is displayed
+01/09/2023 11:20:56 AM - INFO - dd_include is displayed
+01/09/2023 11:20:56 AM - INFO - label_supervisor_name is displayed
+01/09/2023 11:20:56 AM - INFO - input_supervisor_name is displayed
+01/09/2023 11:20:56 AM - INFO - label_job_title is displayed
+01/09/2023 11:20:56 AM - INFO - dd_job_title is displayed
+01/09/2023 11:20:56 AM - INFO - label_sub_unit is displayed
+01/09/2023 11:20:56 AM - INFO - dd_sub_unit is displayed
+01/09/2023 11:20:56 AM - INFO - ********************* END test_pim_page_visibility
+01/09/2023 11:20:56 AM - INFO - ********************* START test_pim_page_error_messages
+01/09/2023 11:20:58 AM - INFO - click Logout
+01/09/2023 11:20:59 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:20:59 AM - INFO - input_username is displayed
+01/09/2023 11:20:59 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:20:59 AM - INFO - input_password is displayed
+01/09/2023 11:20:59 AM - INFO - login_button is displayed
+01/09/2023 11:21:00 AM - INFO - chevron_left is displayed
+01/09/2023 11:21:01 AM - INFO - selected : PIM from main menu
+01/09/2023 11:21:01 AM - INFO - ********************* END test_pim_page_error_messages
+01/09/2023 11:21:01 AM - INFO - ********************* START test_pim_add_employee_page_visibility
+01/09/2023 11:21:03 AM - INFO - click Logout
+01/09/2023 11:21:03 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:21:03 AM - INFO - input_username is displayed
+01/09/2023 11:21:03 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:21:03 AM - INFO - input_password is displayed
+01/09/2023 11:21:04 AM - INFO - login_button is displayed
+01/09/2023 11:21:05 AM - INFO - chevron_left is displayed
+01/09/2023 11:21:06 AM - INFO - selected : PIM from main menu
+01/09/2023 11:21:09 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:21:09 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:21:09 AM - INFO - label_confirm_password_xpath is displayed
+01/09/2023 11:21:09 AM - INFO - label_enabled is displayed
+01/09/2023 11:21:09 AM - INFO - label_disabled is displayed
+01/09/2023 11:21:09 AM - INFO - radio_button_disabled_checkbox is clicked
+01/09/2023 11:21:09 AM - INFO - save_button is displayed
+01/09/2023 11:21:09 AM - INFO - ********************* END test_pim_add_employee_page_visibility
+01/09/2023 11:21:09 AM - INFO - ********************* START test_pim_add_employee_page_error_messages
+01/09/2023 11:21:11 AM - INFO - click Logout
+01/09/2023 11:21:12 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:21:12 AM - INFO - input_username is displayed
+01/09/2023 11:21:12 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:21:12 AM - INFO - input_password is displayed
+01/09/2023 11:21:12 AM - INFO - login_button is displayed
+01/09/2023 11:21:14 AM - INFO - chevron_left is displayed
+01/09/2023 11:21:15 AM - INFO - selected : PIM from main menu
+01/09/2023 11:21:17 AM - INFO - checkbox_create_login_details is displayed
+01/09/2023 11:21:19 AM - INFO - save_button is displayed
+01/09/2023 11:21:20 AM - INFO - input_first_name_xpath is displayed
+01/09/2023 11:21:20 AM - INFO - required_error_message is displayed
+01/09/2023 11:21:20 AM - INFO - input_first_name_xpath is displayed
+01/09/2023 11:21:20 AM - INFO - required_error_message is displayed
+01/09/2023 11:21:20 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:21:20 AM - INFO - required_error_message is displayed
+01/09/2023 11:21:20 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:21:20 AM - INFO - required_error_message is displayed
+01/09/2023 11:21:20 AM - INFO - label_confirm_password_xpath is displayed
+01/09/2023 11:21:20 AM - INFO - label_confirm_password_xpath is displayed
+01/09/2023 11:21:20 AM - INFO - ********************* END test_pim_add_employee_page_error_messages
+01/09/2023 11:21:20 AM - INFO - ********************* START test_pim_add_employee
+01/09/2023 11:21:21 AM - INFO - click Logout
+01/09/2023 11:21:22 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:21:22 AM - INFO - input_username is displayed
+01/09/2023 11:21:22 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:21:22 AM - INFO - input_password is displayed
+01/09/2023 11:21:22 AM - INFO - login_button is displayed
+01/09/2023 11:21:23 AM - INFO - chevron_left is displayed
+01/09/2023 11:21:24 AM - INFO - selected : PIM from main menu
+01/09/2023 11:21:26 AM - INFO - checkbox_create_login_details is displayed
+01/09/2023 11:21:27 AM - INFO - first_name is displayed
+01/09/2023 11:21:27 AM - INFO - input_middle_name is displayed
+01/09/2023 11:21:27 AM - INFO - input_last_name is displayed
+01/09/2023 11:21:28 AM - INFO - employee_id_active is displayed
+01/09/2023 11:21:28 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:21:28 AM - INFO - input_username is displayed
+01/09/2023 11:21:28 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:21:28 AM - INFO - input_password is displayed
+01/09/2023 11:21:28 AM - INFO - label_confirm_password_xpath is displayed
+01/09/2023 11:21:28 AM - INFO - input_password_confirm is displayed
+01/09/2023 11:21:28 AM - INFO - save_button is displayed
+01/09/2023 11:21:29 AM - INFO - title_personal_details is displayed
+01/09/2023 11:21:30 AM - INFO - click Logout
+01/09/2023 11:21:30 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:21:30 AM - INFO - input_username is displayed
+01/09/2023 11:21:30 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:21:30 AM - INFO - input_password is displayed
+01/09/2023 11:21:30 AM - INFO - login_button is displayed
+01/09/2023 11:21:31 AM - INFO - chevron_left is displayed
+01/09/2023 11:21:31 AM - INFO - topbar_menu_item_name is: orange last
+01/09/2023 11:21:32 AM - INFO - click Logout
+01/09/2023 11:21:32 AM - INFO - label_username_xpath is displayed
+01/09/2023 11:21:32 AM - INFO - input_username is displayed
+01/09/2023 11:21:32 AM - INFO - label_password_xpath is displayed
+01/09/2023 11:21:32 AM - INFO - input_password is displayed
+01/09/2023 11:21:32 AM - INFO - login_button is displayed
+01/09/2023 11:21:33 AM - INFO - chevron_left is displayed
+01/09/2023 11:21:34 AM - INFO - selected : PIM from main menu
+01/09/2023 11:21:37 AM - INFO - 0000
+01/09/2023 11:21:37 AM - INFO - click table_cell_checkbox_first_xpath
+01/09/2023 11:21:37 AM - INFO - table_delete_selected is displayed
+01/09/2023 11:21:37 AM - INFO - click table_delete_selected
+01/09/2023 11:21:37 AM - INFO - button_yes_delete is displayed
+01/09/2023 11:21:37 AM - INFO - employee successfully deleted
+01/09/2023 11:21:37 AM - INFO - ********************* END test_pim_add_employee

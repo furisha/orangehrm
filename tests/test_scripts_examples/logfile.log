@@ -1,0 +1,4 @@
+2022-12-22 09:38:45,557 :INFO : tests.test_scripts_examples.logger :An information statement is executed
+2022-12-22 09:38:45,557 :WARNING : tests.test_scripts_examples.logger :A warning message is executed
+2022-12-22 09:38:45,557 :ERROR : tests.test_scripts_examples.logger :An error message is executed
+2022-12-22 09:38:45,557 :CRITICAL : tests.test_scripts_examples.logger :A critical message is executed
